@@ -15,11 +15,9 @@ ______
 
 __Examples__  
 1) \[Set element editor\]:`var y=_editElement(window.document);`  
-
->1-1) \[Element select\]; Select a tag in target tag by clicking.  
->1-2) \[Element Edit\]; Edit a selected tag.  
-
-2) \[Remove set element editor\]:`y();`
+2) \[Element select\]; Select a tag in target tag by clicking.  
+3) \[Element Edit\]; Edit a selected tag.  
+4) \[Remove set element editor\]:`y();`
 
 ##Parameters
 * `tag`: target tag
