@@ -7,10 +7,10 @@ https://github.com/YujiSODE/editElement
 >See LICENSE.txt or http://opensource.org/licenses/mit-license.php
 ______
 
-##Script
+## Script
 * `editElement.js`
 
-##How to use
+## How to use
 * call "`_editElement(tag)`"
 
 __Examples__  
@@ -19,8 +19,8 @@ __Examples__
 3) \[Element Edit\]; Edit a selected tag.  
 4) \[Remove set element editor\]:`y();`
 
-##Parameters
+## Parameters
 * `tag`: target tag
 
-##Returned value
+## Returned value
 Function that removes set element editor.
